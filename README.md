@@ -1,5 +1,5 @@
 # Prayer-Times-API
 
-A challenge for test my skils about promises and API request
+A challenge to test my skills with promises and API requests.
 
 Under construction...
